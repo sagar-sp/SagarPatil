@@ -4,7 +4,7 @@
 </p>
 
 # About Me
-Hi folks :wave: 
+Hi Sagar :wave: 
 
 I'm Sagar Patil, a Full Stack Developer in MERN(MongoDB-Express.js-React.js-Node.js) Stack.
 
